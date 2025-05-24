@@ -1,7 +1,7 @@
 # 📱 Android Login & Register App with SQLite
 
 ## Nama   : Marnisah
-## NIM    : 2202200124
+## NIM    : 220220024
 ## Prodi  : Sistem Informasi
 
 ---
@@ -72,7 +72,7 @@
     <td><strong>Password Kurang</strong></td>
   </tr>
   <tr>
-    <td><img src="4.png" width="250"/></td>
+    <td><img src="3.png" width="250"/></td>
     <td><img src="5.png" width="250"/></td>
   </tr>
   <tr>
